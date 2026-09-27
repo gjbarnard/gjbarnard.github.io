@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+![Logo](images/logo.png "Mt logo")
+</div>
+
 # About me
 Software engineer, Moodle plugin developer and educator.
 
