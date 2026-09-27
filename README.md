@@ -1,1 +1,0 @@
-# gjbarnard.github.io
